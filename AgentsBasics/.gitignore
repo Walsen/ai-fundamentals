@@ -1,0 +1,21 @@
+# Devbox
+.devbox/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.env.*
+.envrc
+
+# macOS
+.DS_Store
+
+# AWS
+.aws/
